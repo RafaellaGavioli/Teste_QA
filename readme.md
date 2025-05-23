@@ -19,7 +19,8 @@ Este projeto contém testes automatizados utilizando Selenium e JUnit.
    ```bash
    gradle clean test --no-build-cache or gradle test
 
-4. Relatório
+## Relatórios Prontos
+
 [Relatório HTML](https://rafaellagavioli.github.io/Teste_QA/) Seguir all > org.example > Teste_Selenium > Standard error
 ou 
-[Releases](https://github.com/RafaellaGavioli/Teste_QA/releases/tag/Stable)
+[Releases](https://github.com/RafaellaGavioli/Teste_QA/releases/tag/Stable) Arquivo Zipado
