@@ -19,6 +19,5 @@ Este projeto contém testes automatizados utilizando Selenium e JUnit.
    ```bash
    gradle clean test --no-build-cache or gradle test
 
-4. Relatorio esta em 
-"Teste_QA\app\build\reports\tests\test\index.html" - all > org.example > Teste_Selenium > Standard error
-or "Teste_QA\app\build\test-results\test\TEST-org.example.Teste_Selenium.xml"
+4. Relatorio
+[text](https://rafaellagavioli.github.io/Teste_QA/)
