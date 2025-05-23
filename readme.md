@@ -20,4 +20,6 @@ Este projeto contém testes automatizados utilizando Selenium e JUnit.
    gradle clean test --no-build-cache or gradle test
 
 4. Relatório
-[Relatório](https://rafaellagavioli.github.io/Teste_QA/) ou https://github.com/RafaellaGavioli/Teste_QA/releases/tag/Stable
+[Relatório](https://rafaellagavioli.github.io/Teste_QA/) Seguir all > org.example > Teste_Selenium 
+ou 
+https://github.com/RafaellaGavioli/Teste_QA/releases/tag/Stable
