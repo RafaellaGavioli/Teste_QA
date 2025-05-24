@@ -18,13 +18,12 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.logging.Logger;
 
-public class Teste_Selenium {
+public class Test_Automation {
 
     WebDriver driver;
     WebDriverWait wait;
 
-    // Logger configurado
-    private static final Logger logger = Logger.getLogger(Teste_Selenium.class.getName());
+    private static final Logger logger = Logger.getLogger(Test_Automation.class.getName());
 
     @Before
     public void setUp() {
