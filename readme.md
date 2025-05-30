@@ -1,26 +1,26 @@
-# Teste Automatizado QA
+# Automated QA Testing
 
-Este projeto contém testes automatizados utilizando Selenium e JUnit.
+This project contains automated tests using Selenium and JUnit.
 
-## Pré-requisitos
+## Prerequisites
 
 1. Java 20
-2. Gradle instalado.(Configurado como Java > Application > Groovy > JUnit4)
-3. WebDriver Chrome (chromedriver) configurado no sistema.
+2. Gradle installed (Configured as Java > Application > Groovy > JUnit4)
+3. Chrome WebDriver (chromedriver) set up in the system.
 
-## Verificar o codigo-Fonte
+## Check the source code at:
 "Teste_QA\app\src\test\java\org\example\Teste_Selenium.java"
 
-## Como Executar os Testes
+## How to Execute the Tests
 
-1. Clone este repositório para sua máquina local  
-2. Navegue até a pasta raiz do projeto no terminal/cmd  
-3. Execute o comando:  
+1. Clone this repository to your local machine. 
+2. Navigate to the project's root folder in the terminal/command prompt.
+3. Run the following command:
    ```bash
    gradle clean test --no-build-cache or gradle test
 
-## Relatórios Prontos
+## Ready Reports
 
 [Relatório HTML](https://rafaellagavioli.github.io/Teste_QA/) Seguir all > org.example > Teste_Selenium > Standard error
-ou 
+or 
 [Releases](https://github.com/RafaellaGavioli/Teste_QA/releases/tag/Stable) Arquivo Zipado
